@@ -1,7 +1,7 @@
 # Deep-Matching-Prior (To be appeared in ICCV2021)
 Official implementation of deep matching prior.
-The code will be available soon. Meanwhile, check out our paper! 
-[[arXiv](https://arxiv.org/abs/2106.03090)].
+The code will be available soon. 
+Meanwhile, check out our paper on[[arXiv](https://arxiv.org/abs/2106.03090)]!
 
 
 ![alt text](/fig/overall.jpg)
