@@ -4,7 +4,7 @@ The code will be available soon. Meanwhile, check out our paper!
 [[arXiv](https://arxiv.org/abs/2106.03090)].
 
 
-![alt text](/fig/overall.pdf)
+![alt text](/fig/overall.jpg)
 ````BibTeX
 @article{hong2021deep,
   title={Deep Matching Prior: Test-Time Optimization for Dense Correspondence},
